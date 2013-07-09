@@ -1,0 +1,12 @@
+Welkomst tekst:
+
+<p>Hartelijk Welkom. Hier komt een welkomst tekst. ajdhfkasjdhfkasjdflajfl;kajsdfl;kjasl;fkjasl;dfjka;sfkljasdfadfadfasdfasdfadf
+				<br />asfasfafagshshajlka<br />jglkdmga'klerjlkdgjvaldkfn</p>
+				
+
+
+Hero unit:
+
+<br />
+			<h1>Combi Service Meeuwes<img align="right" src="/combiservicemeeuwes/img/Logo.png" width=25%/></h1>
+			<br /><br />
