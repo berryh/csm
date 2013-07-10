@@ -36,6 +36,7 @@
 			<h1>Combi Service Meeuwes<img align="right" src="./img/Logo.png" width=320/></h1>
 			<br />
 			<br />
+			<br />
 		</div>
 
 		<div class="container">
