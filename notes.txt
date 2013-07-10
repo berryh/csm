@@ -10,3 +10,18 @@ Hero unit:
 <br />
 			<h1>Combi Service Meeuwes<img align="right" src="/combiservicemeeuwes/img/Logo.png" width=25%/></h1>
 			<br /><br />
+			
+Span 12 Home Pagina
+
+<div class="row-fluid">
+				<div class="span12">
+					<p>
+						Hier Komt denk ik wat tekst met wat info en een fotoreportage. Of helemaal niks.
+					</p>
+				</div>
+			</div>
+			
+
+Ubergallery CSS Footer
+
+ border-top: 1px solid #CCC;

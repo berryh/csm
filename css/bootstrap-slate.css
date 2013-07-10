@@ -7068,3 +7068,11 @@ a.thumbnail:hover {
 .affix {
   position: fixed;
 }
+
+#formulier{
+	color: #272b30;
+}
+
+#formulier:focus{
+	color: #272b30;
+}
